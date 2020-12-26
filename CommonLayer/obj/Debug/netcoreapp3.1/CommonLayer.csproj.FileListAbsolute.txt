@@ -1,0 +1,9 @@
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csprojAssemblyReference.cache
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb

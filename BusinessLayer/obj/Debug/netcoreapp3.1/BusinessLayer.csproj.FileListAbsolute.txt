@@ -1,0 +1,4 @@
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache

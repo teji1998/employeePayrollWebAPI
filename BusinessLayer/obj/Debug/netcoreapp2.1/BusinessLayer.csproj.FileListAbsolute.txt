@@ -1,0 +1,14 @@
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.dll
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.pdb
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\PRITHVIL5\source\repos\empPayrollWebApp\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb
